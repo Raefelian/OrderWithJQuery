@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JQuery 2</title>
+    <link rel="stylesheet" href="app.css">
+</head>
+
+<body>
+    <h1>Order With JQuery</h1>
+    <div id="container">
+        <!-- Foods -->
+        <ul id="foods"> <h3>Food</h3>
+            <li class="burger">Pizza
+                <button class="order" type="submit">Order</button>
+                <button class="cancel">Cancel</button>
+            </li>
+            <li class="pizza">Burger
+                <button class="order" type="submit">Order</button>
+                <button class="cancel">Cancel</button>
+            </li>
+        </ul>
+        <button id="toggleFoods">H</button>
+        <!-- Drinks -->
+        <ul id="drinks"><h3>Drinks</h3>
+            <li class="tea">Iced Tea
+                <button class="add">+</button>
+                <button class="less">-</button>
+                    <p>0</p>
+            </li>
+            <li class="coconut">Coconut Iced
+                <button class="add">+</button>
+                <button class="less">-</button>
+                <p>0</p>
+            </li>
+            <li class="orange">Orange Iced
+                <button class="add">+</button>
+                <button class="less">-</button>
+                <p>0</p>
+            </li>
+        </ul>
+        <button id="toggleDrinks"></button>
+    </div>
+
+    <script src="jquery-3.7.1.min.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

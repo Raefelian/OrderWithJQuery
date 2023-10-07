@@ -1,0 +1,20 @@
+.orengeColor {
+    color: orange;
+}
+hr {
+    float: left;
+    display: inline;
+    width: 10%;
+}
+li {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+h3, p {
+    margin: 0;
+    padding: 0;
+}
+button {
+    margin: 3px;
+}
