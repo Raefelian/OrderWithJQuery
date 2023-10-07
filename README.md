@@ -1,7 +1,7 @@
 # OrderWithJQuery
 Food and Drink Ordering App
 
-Food and Drink Ordering App - A simple application for ordering food and beverages. 
+A simple application for ordering food and beverages. 
 Users can add or remove items from their order and cancel it if needed.
 <hr>
 <h1>Usage</h1>
