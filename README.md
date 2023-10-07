@@ -6,7 +6,7 @@ Users can add or remove items from their order and cancel it if needed.
 <hr>
 <h1>Usage</h1>
 
-For example, visit : https://raefelian.github.io/OrderWithJquery/
+For example, visit : https://raefelian.github.io/OrderWithJQuery/
 
 Click on the "Order" button to place an order for a specific item. 
 
